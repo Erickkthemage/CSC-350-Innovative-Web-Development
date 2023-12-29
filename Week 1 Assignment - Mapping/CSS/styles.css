@@ -1,0 +1,42 @@
+/*  Name: Erick Diaz    Date: 10/18/23  */
+
+/* Styling for the entire body */
+body{
+    background-color: rgb(0, 136, 91);
+    color: black;
+    font-size: 2em;
+}
+
+/* Styling for the main container */
+.container {
+    max-width: 600px;
+    min-height: 500px;
+    margin: 5% auto;
+    text-align: center;
+    padding-top: 1%;
+    border: 5px solid black;
+}
+
+/* Styling for buttons and input fields */
+button, input{
+    font-size: 1em;
+}
+
+/* Styling for unordered list */
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+/* Styling for list items */
+li {
+    margin: 10px 0;
+}
+
+/* Styling for the clear button */
+#btnClr{
+    display:block;
+    margin:1% 10%;
+    background-color: red;
+}
+
