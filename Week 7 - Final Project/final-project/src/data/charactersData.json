@@ -1,0 +1,68 @@
+{
+    "WorldOfWarcraft": [
+      {
+        "id": 1,
+        "name": "Thrall",
+        "race": "Orc",
+        "class": "Shaman",
+        "description": "Former Warchief of the Horde, Thrall is a skilled shaman and a key figure in the history of Azeroth.",
+        "imageSrc": "./images/thrall.jpeg"
+      },
+      {
+        "id": 2,
+        "name": "Jaina Proudmoore",
+        "race": "Human",
+        "class": "Mage",
+        "description": "Jaina Proudmoore is a powerful mage and diplomat, playing a crucial role in Azeroth's alliances.",
+        "imageSrc": "./images/jaina.jpeg"
+      },
+      {
+        "id": 3,
+        "name": "Varian Wrynn",
+        "race": "Human",
+        "class": "Warrior",
+        "description": "Varian Wrynn, the High King of the Alliance, is a skilled warrior and a central figure in the Alliance-Horde conflict.",
+        "imageSrc": "./images/varian.jpeg"
+      }
+    ],
+    "KingdomHearts": [
+      {
+        "id": 1,
+        "name": "Sora",
+        "species": "Keyblade Wielder",
+        "description": "Sora is the main protagonist of Kingdom Hearts, wielding the Keyblade to combat darkness and protect his friends.",
+        "imageSrc": "./images/sora.jpeg"
+      },
+      {
+        "id": 2,
+        "name": "Donald Duck",
+        "species": "Duck",
+        "description": "Donald Duck, a loyal friend to Sora, provides magical support in battles against Heartless and other foes.",
+        "imageSrc": "./images/donald.jpeg"
+      },
+      {
+        "id": 3,
+        "name": "Goofy",
+        "species": "Dog",
+        "description": "Goofy, a trustworthy and humorous companion, fights alongside Sora and Donald in their quest to save the worlds.",
+        "imageSrc": "./images/goofy.jpeg"
+      }
+    ],
+    "PokemonYellow": [
+      {
+        "id": 1,
+        "name": "Pikachu",
+        "species": "Electric Pokémon",
+        "description": "Pikachu, an Electric-type Pokémon, is the loyal companion of the Pokémon Trainer on their journey.",
+        "imageSrc": "./images/pikachu.jpeg"
+      },
+      {
+        "id": 2,
+        "name": "Charizard",
+        "species": "Fire/Flying Pokémon",
+        "description": "Charizard, a powerful Fire and Flying-type Pokémon, evolves from Charmeleon and is known for its fiery attacks.",
+        "imageSrc": "./images/charizard.jpeg"
+      }
+    ]
+  }
+  

@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "title": "World of Warcraft",
+      "imageSrc": "./images/wow.jpeg",
+      "description": "World of Warcraft, developed by Blizzard Entertainment, is a groundbreaking online multiplayer role-playing game set in the expansive and diverse realm of Azeroth. Players choose from a variety of races and classes, forming alliances in the ongoing conflict between the Alliance and Horde factions. The game features a rich lore, evolving through expansions that introduce new lands and storylines. With a dynamic world, immersive gameplay, and a vibrant player community, WoW remains a benchmark in the MMORPG genre. From epic quests and challenging dungeons to intense PvP battles, World of Warcraft continues to captivate millions with its ever-evolving virtual universe.",
+      "releaseYear": 2004
+    },
+    {
+      "id": 2,
+      "title": "Kingdom Hearts",
+      "imageSrc": "./images/kh.jpeg",
+      "description": "Kingdom Hearts, a unique collaboration between Square Enix and Disney Interactive Studios, is an action role-playing game that seamlessly blends the enchanting worlds of Disney and Final Fantasy. Players follow the journey of Sora, a Keyblade wielder, as he explores various Disney and original worlds, encountering iconic characters from both franchises. The game combines real-time combat, exploration, and puzzle-solving, offering a captivating narrative that explores themes of friendship, darkness, and the power of hearts. With its distinctive crossover appeal, memorable characters, and a visually stunning universe, Kingdom Hearts has become a beloved series, enchanting players with its magical storytelling and imaginative gameplay.",
+      "releaseYear": 2002
+    },
+    {
+      "id": 3,
+      "title": "Pokemon Yellow",
+      "imageSrc": "./images/pokemon.jpeg",
+      "description": "Pokémon Yellow, a classic role-playing game developed by Game Freak and published by Nintendo, is an iconic entry in the Pokémon series. Released for the Game Boy, it follows the adventures of a young Pokémon Trainer as they journey through the vibrant Kanto region. Notable for its unique feature of having Pikachu as a companion that follows the player, mirroring the animated series, Pokémon Yellow captures the essence of the original Red and Blue versions. Players strive to become a Pokémon Master by capturing and training creatures, battling Gym Leaders, and thwarting the nefarious Team Rocket. With its enduring charm, strategic turn-based battles, and a nostalgic connection to the Pokémon animated series, Pokémon Yellow holds a special place in the hearts of fans worldwide.",
+      "releaseYear": 1998
+    }
+  ]
+  

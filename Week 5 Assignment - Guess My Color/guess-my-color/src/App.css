@@ -1,0 +1,60 @@
+/* Name: Erick Diaz  Date: 10/30/23 */
+
+.App {
+  text-align: center;
+  margin-top: 100px;
+}
+
+.color-box {
+  width: 100px;
+  height: 100px;
+  margin: 20px auto;
+}
+
+form {
+  margin-top: 20px;
+}
+
+p {
+  margin-top: 20px;
+  color: rgb(168, 180, 0);
+}
+
+body {
+  background-color: black;
+}
+
+.title {
+  color: aquamarine;
+}
+
+label {
+  color: white;
+  margin-right: 10px;
+}
+
+button {
+  background-color: green;
+}
+
+.image {
+  animation: fadeIn 1.5s forwards, pulse 1s infinite 1.5s;
+}
+
+@keyframes fadeIn {
+  from{
+    transform: scale(0);  
+  }
+}
+
+@keyframes pulse {
+  0%{
+    transform: scale(.95);
+  }
+  50%{
+    transform: scale(1);
+  }
+  100%{
+    transform: scale(.95);
+  }
+}
