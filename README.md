@@ -20,11 +20,11 @@ Another React application, however, this application stores data in different co
 
 ### Week 5 Assignment
 
-This React application was my first time using state in order to make a color-guessing game. The site randomly chooses a color from an array when you first load the page and then the user submits their guesses and the page updates to reflect if their answer was correct or incorrect. Once the guess is correct the page displays an image with an animation.
+This React application was my first time using state to make a color-guessing game. The site randomly chooses a color from an array when you first load the page and then the user submits their guesses and the page updates to reflect if their answer was correct or incorrect. Once the guess is correct the page displays an image with an animation.
 
 ### Week 6 Assignment
 
-This was my first attempt at implementing navigation in a React application. It contains two pages and a navigation bar that are styled using Bootstrap 5.
+This was my first attempt at implementing navigation in a React application. It contains two pages and a navigation bar that is styled using Bootstrap 5.
 
 ### Week 7 Assignment
 
